@@ -1,4 +1,4 @@
-*Este projeto foi criado como parte do currículo 42 por nicsanto.*
+*This project has been created as part of the 42 curriculum by nicsanto.*
 
 ## Descrição
 
